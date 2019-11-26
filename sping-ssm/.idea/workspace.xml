@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94485509-0d8a-46a2-a772-09e0e6223ad0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sping-ssm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TyKF09z4WJ3GmfzDH1u7UKfdkD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubbodemo_consumer/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.09592641" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\sping-ssm\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\dubbodemo_consumer\src\main\resources" />
+      <recent name="D:\IdeaProjects\sping-ssm\src\main\java\cn\itcase\pojo" />
+      <recent name="D:\IdeaProjects\sping-ssm\src\main\webapp" />
+      <recent name="D:\IdeaProjects\sping-ssm\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringTest.test">
+    <configuration name="SpringMybatisTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ssm.test.SpringMybatisTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ssm.test.SpringTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.testF" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sping-ssm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcase.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcase.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcase.test.SpringTest" />
+      <option name="METHOD_NAME" value="testF" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringTest.test" />
+        <item itemvalue="JUnit.SpringMybatisTest.test1" />
+        <item itemvalue="JUnit.SpringTest.testF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94485509-0d8a-46a2-a772-09e0e6223ad0" name="Default Changelist" comment="" />
+      <created>1574426787139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574426787139</updated>
+      <workItem from="1574426788846" duration="1572000" />
+      <workItem from="1574428488801" duration="1074000" />
+      <workItem from="1574429623917" duration="772000" />
+      <workItem from="1574430513997" duration="531000" />
+      <workItem from="1574436934812" duration="5140000" />
+      <workItem from="1574469320476" duration="949000" />
+      <workItem from="1574487509712" duration="6753000" />
+      <workItem from="1574512178811" duration="3514000" />
+      <workItem from="1574579540888" duration="4399000" />
+      <workItem from="1574589704206" duration="658000" />
+      <workItem from="1574642336293" duration="793000" />
+      <workItem from="1574643623095" duration="112000" />
+      <workItem from="1574643785426" duration="77000" />
+      <workItem from="1574643920300" duration="29000" />
+      <workItem from="1574643979063" duration="16000" />
+      <workItem from="1574644142165" duration="1026000" />
+      <workItem from="1574647650066" duration="1215000" />
+      <workItem from="1574676029292" duration="722000" />
+      <workItem from="1574681139805" duration="7406000" />
+      <workItem from="1574693778415" duration="3669000" />
+      <workItem from="1574728467356" duration="5769000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

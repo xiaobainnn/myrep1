@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC
+        "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration xmlns:context="http://www.springframework.org/schema/context">
+
+    <!--加载数据库参数文件-->
+    <properties resource="classpath:jdbc.properties" ></properties>
+
+    <typeAliases>
+        <!--批量配置别名-->
+        <package name="com.itheima.pojo" />
+    </typeAliases>
+
+    <!--数据源环境-->
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <!--批量加载-->
+        <package name="com.itheima.mapper" />
+    </mappers>
+
+</configuration>
